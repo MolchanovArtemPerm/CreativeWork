@@ -10,7 +10,7 @@
 
 В создании калькулятора был задействован Windows Forms.</summery>
 
-<a href="https://github.com/MolchanovArtemPerm/CreativeWork/tree/main/Calculator">Калькулятор</a>
+<a href="https://github.com/MolchanovArtemPerm/Tvorcheskaya/tree/main/calc">Калькулятор</a>
 
 <h1>Калькулятор логарифмов</h1>
 <summary>Задача заключается в том, чтобы обойти все вершины графа самым коротким путем и вернуться обратно.
