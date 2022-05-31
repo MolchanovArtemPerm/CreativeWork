@@ -17,4 +17,4 @@
 Для визуализпции графа использовалась библиотека GLUT.
 Задача была решена методом Дейкстера.</summery>
 
-<a href="https://github.com/MolchanovArtemPerm/CreativeWork/tree/main/Salesman">Коммивояжер</a>
+<a href="https://github.com/MolchanovArtemPerm/Tvorcheskaya/tree/main/Komi">Коммивояжер</a>
